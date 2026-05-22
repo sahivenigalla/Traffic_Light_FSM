@@ -1,2 +1,15 @@
 # Traffic_Light_FSM
-Designed and Implemented an FSM Traffic Light Controller in VHDL with simulation, testbench verification and FPGA implementation
+
+# Overview
+Designed a traffic light controller using VHDL on the DE10 board.
+
+## Features 
+- Finite State Machine implementation
+- Simulated using Modelsim
+- Implemented on FPGA hardware
+
+## Tools Used
+- Quartus
+- Modelsim
+- VHDL
+
